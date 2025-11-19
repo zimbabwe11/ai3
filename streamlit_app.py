@@ -70,9 +70,21 @@ st.markdown("---")
 CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     
     labels[0] : {
-       "texts": ["리버풀", "국물 맛 포인트", "지역별 스타일 차이"],
+       "texts": ["리중딱", "콥", "제라드"],
        "images": ["https://designcompass.org/wp-content/uploads/2025/02/liverpool-fc-09.png", "https://.../jjampong2.jpg"],
        "videos": ["https://www.youtube.com/watch?v=sXAkBsEcXSo"]
+     },
+
+    labels[1] : {
+       "texts": ["챌램덩크", "파란색", "런던"],
+       "images": ["https://play-lh.googleusercontent.com/nPMQvWjcZtG8XCYDLAT4s1j4BRq-JQ5gqGHRPHi8QAXsRvNVgY-j-eTfbfmUIGvxMw", "https://.../jjampong2.jpg"],
+       "videos": ["https://www.youtube.com/watch?v=ffxwpCRa9Kc"]
+     },
+
+    labels[2] : {
+       "texts": ["맹구", "퍼거슨", "더 레드"],
+       "images": ["https://upload.wikimedia.org/wikipedia/ko/thumb/a/a8/%EB%A7%A8%EC%B2%B4%EC%8A%A4%ED%84%B0_%EC%9C%A0%EB%82%98%EC%9D%B4%ED%8B%B0%EB%93%9C_FC_%EB%A1%9C%EA%B3%A0.svg/1184px-%EB%A7%A8%EC%B2%B4%EC%8A%A4%ED%84%B0_%EC%9C%A0%EB%82%98%EC%9D%B4%ED%8B%B0%EB%93%9C_FC_%EB%A1%9C%EA%B3%A0.svg.png", "https://.../jjampong2.jpg"],
+       "videos": ["https://www.youtube.com/watch?v=WqDR9pXhWO8"]
      },
 }
 

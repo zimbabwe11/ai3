@@ -71,7 +71,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     
     labels[0] : {
        "texts": ["리버풀", "국물 맛 포인트", "지역별 스타일 차이"],
-       "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
+       "images": ["https://designcompass.org/wp-content/uploads/2025/02/liverpool-fc-09.png", "https://.../jjampong2.jpg"],
        "videos": ["https://www.youtube.com/watch?v=sXAkBsEcXSo"]
      },
 }
